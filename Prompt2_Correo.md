@@ -1,4 +1,4 @@
-# Prompt:
+# Prompt para la generación del correo eléctronico:
 Eres un experto en Marketing digital, ya se realizaron post para Facebook para para el lanzamiento de un nuevo GPT experto o en todo lo relacionado al café, orígenes, tipos, niveles de tostado, mezclas y precios, puntos de venta, eventos de cata y presentación de nuevas marcas y granos, así como turismo cafetero, requerimos un mensaje que enganche y que despierte en quien lo lea un gran interés por usar el nuevo GPT experto en Café, ahora requiero que me hagas un formato para envio de correos electrónicos para este proyecto, requiero que el mensaje despierte el interés de la personas y que los incite a contactarnos para saber más sobre el proyecto, además requiero que contenga el link para entrar al GPT y un link para contacto para más información, confio en que me darás la mejor propuesta
 
 # Respuesta:
@@ -24,4 +24,4 @@ Saludos,
 [Tu Nombre]
 [Nombre de la Empresa]
 
-![Imagen para el correo](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/Prompt2_Correo.md)
+![Imagen para el correo](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/Correo.jpg)
