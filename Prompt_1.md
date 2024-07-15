@@ -25,11 +25,12 @@ Para un lanzamiento exitoso del nuevo GPT especializado en café, se deben segui
 
 ¡Descubre el futuro del café con nuestro nuevo GPT especializado! ☕️✨
 
-🌍 Conoce los orígenes de tu café favorito.
-🔬 Aprende sobre tipos, niveles de tostado y mezclas únicas.
-📊 Obtén información sobre precios y puntos de venta.
-🎉 Participa en eventos de cata y descubre nuevas marcas.
-🚀 Explora el turismo cafetero.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍 Conoce los orígenes de tu café favorito.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔬 Aprende sobre tipos, niveles de tostado y mezclas únicas.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Obtén información sobre precios y puntos de venta.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎉 Participa en eventos de cata y descubre nuevas marcas.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Explora el turismo cafetero.
+
 
 ¡La revolución del café ha llegado! 
 
@@ -37,4 +38,5 @@ Para un lanzamiento exitoso del nuevo GPT especializado en café, se deben segui
 
 👉 [Enlace a la página del producto]
 
-![Imagen generada para el Post](https://drive.google.com/file/d/1o19vt1MrWumndve_DpkzH19kjS9QoFSF/view)
+
+![Imagen generada para el Post](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/Default_requiero_una_imagen_para_este_post_de_facebook_Descub_0.jpg)
