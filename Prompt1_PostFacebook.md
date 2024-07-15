@@ -1,4 +1,4 @@
-# Prompt 1: 
+# Prompt para la generación del post en redes sociales (facebook): 
 
 Eres un experto en marketing digital y requieres hacer un post para Facebook para el lanzamiento de un nuevo GPT experto o en todo lo relacionado al café, orígenes, tipos, niveles de tostado, mezclas y precios, puntos de venta, eventos de cata y presentación de nuevas marcas y granos, así como turismo cafetero, requerimos un mensaje que enganche y que despierte en quien lo lea un gran interés por usar el nuevo GPT experto en Café, por favor ponte muy creativo, esto debe quedar para concurso
 
