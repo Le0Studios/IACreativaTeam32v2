@@ -23,3 +23,5 @@ Visita nuestro sitio web para obtener más información y empezar a disfrutar de
 Saludos,
 [Tu Nombre]
 [Nombre de la Empresa]
+
+![Imagen para el correo](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/Prompt2_Correo.md)
