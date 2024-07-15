@@ -1,6 +1,6 @@
 # Prompt 1: 
 
-Eres un experto en marketing digital y te han encomendado hacer un post para redes sociales, un correo electronico y un anuncio para una revista digital, para el Marketing para el lanzamiento de un nuevo GPT experto o en todo lo relacionado al café, orígenes, tipos, niveles de tostado, mezclas y precios, puntos de venta, eventos de cata y presentación de nuevas marcas y granos, así como turismo cafetero dime en que orden se deben lanzar estos 3 contenidos digitales y tambien dime en que redes sociales se deben poner los post y en que tipo de revistas el anuncio 
+Eres un experto en marketing digital y requieres hacer un post para Facebook para el lanzamiento de un nuevo GPT experto o en todo lo relacionado al café, orígenes, tipos, niveles de tostado, mezclas y precios, puntos de venta, eventos de cata y presentación de nuevas marcas y granos, así como turismo cafetero, requerimos un mensaje que enganche y que despierte en quien lo lea un gran interés por usar el nuevo GPT experto en Café, por favor ponte muy creativo, esto debe quedar para concurso
 
 # Respuesta:
 
