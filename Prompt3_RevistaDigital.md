@@ -1,4 +1,4 @@
-# Prompt:
+# Prompt para la generación del anuncio en revista digital:
 Eres un experto en marketing digital ya se realizaron los post para Facebook y los correos electrónicos ahora necesitamos un anuncio para una revista digital para para el lanzamiento de un nuevo GPT experto o en todo lo relacionado al café, orígenes, tipos, niveles de tostado, mezclas y precios, puntos de venta, eventos de cata y presentación de nuevas marcas y granos, así como turismo cafetero, requerimos un mensaje que enganche y que despierte en quien lo lea un gran interés por usar el nuevo GPT experto en Café, ahora requiero que me hagas un formato para envio de correos electrónicos para este proyecto, requiero que el mensaje despierte el interés de la personas y que los incite a contactarnos para saber más sobre el proyecto, además requiero que le pongas un código QR que lleve a las personas a descargar la APP del GPT tanto para IOS como para Android, te quiero muy creativo este anuncio nos tiene que dar una buena utilidad entre su costo y descargas de la APP, ponte muy creativo por favor
 
 # Respuesta:
@@ -30,3 +30,4 @@ _Disponible para iOS y Android_
 [Enlace a la Página de Contacto](enlace_a_contacto)
 
 **Visítanos en** [enlace_a_GPT]
+![Imagen para el post](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/Revista.jpg)
