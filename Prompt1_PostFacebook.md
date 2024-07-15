@@ -22,4 +22,4 @@ Eres un experto en marketing digital y requieres hacer un post para Facebook par
 
 #GPTCafe #RevolucionCafe #AmantesDelCafe #CulturaCafetera #InovacionCafe
 
-![Imagen generada para el Post](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/Default_requiero_una_imagen_para_este_post_de_facebook_Descub_0.jpg)
+![Imagen generada para el Post](https://github.com/Le0Studios/IACreativaTeam32v2/blob/main/PostFacebook.jpg)
