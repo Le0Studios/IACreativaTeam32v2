@@ -3,7 +3,7 @@ Eres un experto en marketing digital ya se realizaron los post para Facebook y l
 
 # Respuesta:
 
-**¡Descubre el Futuro del Café con Nuestro Nuevo GPT! ** ☕️✨
+## ¡Descubre el Futuro del Café con Nuestro Nuevo GPT! ☕️✨
 
 **Transforma tu Experiencia Cafetera**
 
